@@ -125,7 +125,7 @@
 
 }
 .blok1_img {
-    background-image: url(/img/project.jpg);
+    background-image: url(./img/project.jpg);
     width: 60px;
     height: 60px;
     background-size: contain;
